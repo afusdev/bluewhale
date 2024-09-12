@@ -1,2 +1,2 @@
-# bluewhale
-BlueWhale Fin Robotos
+# BlueWhale
+BlueWhale Fin robots source code
