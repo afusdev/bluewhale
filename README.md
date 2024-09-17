@@ -6,3 +6,7 @@ Created for NEXT Cup
 ## Control uArm Swift Pro through python and rasbperry pi
 library github link:
 https://github.com/uArm-Developer/uArm-Python-SDK
+
+## Object recognition with python for raspberry pi
+article link
+https://core-electronics.com.au/guides/object-identify-raspberry-pi/
