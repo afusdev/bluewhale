@@ -1,6 +1,3 @@
-#code imported from https://core-electronics.com.au/guides/object-identify-raspberry-pi/
-#we do not own the right to any of this code
-
 #Import the Open-CV extra functionalities
 import cv2
 
@@ -58,3 +55,7 @@ if __name__ == "__main__":
         #print(objectInfo)
         cv2.imshow("Output",img)
         cv2.waitKey(1)
+
+
+
+#imported from https://core-electronics.com.au/guides/object-identify-raspberry-pi/
