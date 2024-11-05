@@ -5,7 +5,7 @@ Created for NEXT Cup 2024
 
 Prototype model run on Rasperry PI 3 in headless mode with ubuntu.
 
-## Libraries needed and used:
+# Libraries needed and used:
 ### Original source code
 https://core-electronics.com.au/guides/object-identify-raspberry-pi/
 
