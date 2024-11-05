@@ -3,13 +3,18 @@ BlueWhale, Fin robots, can help clean up rivers and oceans around the world
 
 Created for NEXT Cup 2024
 
+Prototype model run on Rasperry PI 3 in headless mode with ubuntu.
+
 ## Libraries needed and used:
 ### Original source code
 https://core-electronics.com.au/guides/object-identify-raspberry-pi/
 
-### Control uArm Swift Pro through python and rasbperry pi
-library github link:
-https://github.com/uArm-Developer/uArm-Python-SDK
+### OpenCV
+OpenCV library is used
+
+### COCO
+Common Objects in Context is the model used for this test project.
+
 
 ### Object recognition with python for raspberry pi
 article link
