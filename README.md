@@ -19,3 +19,7 @@ Common Objects in Context is the model used for this test project.
 ### Object recognition with python for raspberry pi
 article link
 https://core-electronics.com.au/guides/object-identify-raspberry-pi/
+
+
+# Credits:
+Amir, August, Kalle & Matthew 
